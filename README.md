@@ -128,9 +128,21 @@ this is only if you want to run this in your own deployment. the live app is cur
 
 GET video
 
+
+https://user-images.githubusercontent.com/95892904/160530972-8cff427f-a0dd-4d51-9d4c-a311de1dcb07.mov
+
+
 PUT video
 
+
+https://user-images.githubusercontent.com/95892904/160530983-9e3420f6-a5c5-4412-b9a1-61be9569a005.mov
+
+
 DEL and POST video
+
+
+https://user-images.githubusercontent.com/95892904/160531599-38556768-5196-42da-8985-a39f6b561968.mp4
+
 
 -------------------------
 Thank you for taking time looking at this page.
